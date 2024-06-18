@@ -1,7 +1,7 @@
 matches:
   - trigger: "!zdn"
     replace: |
-      ##Purpose of the meeting
+      ## Purpose of the meeting
 
       ## Notes
 
