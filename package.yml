@@ -1,5 +1,5 @@
 matches:
-  - trigger: "!zdn"
+  - trigger: "!sn"
     replace: |
       ## Purpose of the meeting
 
