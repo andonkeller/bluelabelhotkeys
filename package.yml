@@ -1,0 +1,31 @@
+matches:
+  - trigger: "!zdn"
+    replace: |
+      ##Purpose of the meeting
+
+      ## Notes
+
+      ## Questions
+      What needs to be worked through (or potentially researched)?
+      List unknowns or unanswered questions.
+      1.
+      2.
+
+      ## Concerns and solutions
+      What concerns or objections came up during the meeting?
+      How did we address these concerns? What solutions did we propose?
+      *
+      *
+
+      ## Insights and opportunities
+      What did we learn about our client's needs and priorities?
+      What opportunities or expansion possibilities could we explore?
+      *
+      *
+
+      ## Actions
+      Document next steps.  Be very specific: Who/what/when.
+      BlueLabelers don't drop balls.  We hand off baton with precision.
+
+      [] Who what by ##/##
+      [] Who what by ##/##
