@@ -29,3 +29,13 @@ matches:
 
       [] Who what by ##/##
       [] Who what by ##/##
+  - trigger: "!sq"
+    replace: |
+      Do we understand the buying committee? Are we interacting with them?
+        * 
+      
+      Is our technical team collaborating with their technical team?
+        * 
+      
+      Do we have something to demo?
+        * 
